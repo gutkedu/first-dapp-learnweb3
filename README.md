@@ -7,7 +7,7 @@ Running the project:
 
 ```bash
 npm install -g lite-server
-git clone https://github.com/BlockDevsUnited/BasicFrontEndTutorial.git
+git clone https://github.com/gutkedu/learnweb3-first-dApp.git
 cd learnweb3-first-dApp
 cd front-end
 lite-server
